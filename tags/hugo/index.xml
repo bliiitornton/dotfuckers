@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo on dot.4u3k3r$ CluB</title>
-    <link>https://bliiitornton.github.io/dotfuckers/tags/hugo/</link>
-    <description>Recent content in Hugo on dot.4u3k3r$ CluB</description>
+    <title>Hugo on JoshWinks</title>
+    <link>https://winwaklert.github.io/armod/tags/hugo/</link>
+    <description>Recent content in Hugo on JoshWinks</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
+    <copyright>Josh Wink</copyright>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://bliiitornton.github.io/dotfuckers/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://winwaklert.github.io/armod/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://bliiitornton.github.io/dotfuckers/post/hugoisforlovers/</link>
+      <title>Пост в меню</title>
+      <link>https://winwaklert.github.io/armod/post/hugo-4-pedrilos/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://bliiitornton.github.io/dotfuckers/post/hugoisforlovers/</guid>
+      <guid>https://winwaklert.github.io/armod/post/hugo-4-pedrilos/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo

@@ -2,97 +2,125 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://bliiitornton.github.io/dotfuckers/post/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://winwaklert.github.io/armod/page/abouts/</loc>
+    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bliiitornton.github.io/dotfuckers/post/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc>https://winwaklert.github.io/armod/page/contact/</loc>
+    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bliiitornton.github.io/dotfuckers/about/</loc>
-    <lastmod>2015-06-20T14:02:37+02:00</lastmod>
+    <loc>https://winwaklert.github.io/armod/anabolics/about-steroids/</loc>
+    <lastmod>2014-11-18T02:13:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bliiitornton.github.io/dotfuckers/tags/</loc>
-    <lastmod>2015-06-20T14:02:37+02:00</lastmod>
+    <loc>https://winwaklert.github.io/armod/recovery/about-shit/</loc>
+    <lastmod>2014-11-18T02:13:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bliiitornton.github.io/dotfuckers/post/goisforlovers/</loc>
+    <loc>https://winwaklert.github.io/armod/arnies/my-project/</loc>
+    <lastmod>2014-11-18T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://winwaklert.github.io/armod/post/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://winwaklert.github.io/armod/post/hugo-template-primer/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://winwaklert.github.io/armod/post/migrating-from-jekyll/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://winwaklert.github.io/armod/post/hugo-4-pedrilos/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bliiitornton.github.io/dotfuckers/post/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bliiitornton.github.io/dotfuckers/categories/</loc>
+    <loc>https://winwaklert.github.io/armod/anabolics/</loc>
+    <lastmod>2014-11-18T02:13:50+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bliiitornton.github.io/dotfuckers/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://winwaklert.github.io/armod/arnies/</loc>
+    <lastmod>2014-11-18T02:13:50+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bliiitornton.github.io/dotfuckers/categories/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://winwaklert.github.io/armod/tags/development/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bliiitornton.github.io/dotfuckers/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://winwaklert.github.io/armod/tags/go/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bliiitornton.github.io/dotfuckers/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://winwaklert.github.io/armod/tags/golang/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bliiitornton.github.io/dotfuckers/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bliiitornton.github.io/dotfuckers/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bliiitornton.github.io/dotfuckers/post/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bliiitornton.github.io/dotfuckers/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bliiitornton.github.io/dotfuckers/tags/themes/</loc>
+    <loc>https://winwaklert.github.io/armod/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bliiitornton.github.io/dotfuckers/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://winwaklert.github.io/armod/</loc>
+    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://winwaklert.github.io/armod/page/</loc>
+    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://winwaklert.github.io/armod/post/</loc>
+    <lastmod>2014-09-28T02:13:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://winwaklert.github.io/armod/recovery/</loc>
+    <lastmod>2014-11-18T02:13:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://winwaklert.github.io/armod/tags/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://winwaklert.github.io/armod/tags/templates/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://winwaklert.github.io/armod/tags/themes/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
     <priority>0</priority>
   </url>
   
